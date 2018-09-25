@@ -1,0 +1,5 @@
+machine_type: n1-standard-1 # default
+image: centos-7
+service_account_email: chawla.sanyam101@gmail.com
+credentials_file: /home/chawla_sanyam101/sshKey/key.json
+project_id: devops-206408
